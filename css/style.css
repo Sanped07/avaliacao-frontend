@@ -1,0 +1,67 @@
+body { 
+    color: rgb(253, 253, 253);
+    background-color: rgb(12, 12, 12);
+    font-size:25px;
+}
+header{
+    background-color: rgb(34, 34, 34);
+}
+#name{
+    font-size:35px;
+    border: 6px double rgb(4, 0, 255);
+}
+    
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+.sobre{
+    padding: 10px;
+    margin:10px;
+text-align:justify;
+}
+.hobbies{
+    padding: 10px;
+    margin:10px;
+text-align:justify;
+}
+section{ 
+    padding: 10px;
+    margin:10px;
+text-align:justify;
+}
+
+
+.Center{
+    text-align:Center;
+}
+
+.eu{
+    padding: 10px;
+    margin:10px;
+text-align:justify;
+}
+
+h2{
+    color:burlywood;
+}
+
+footer{
+    position:static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(4, 0, 255);
+  color: white;
+  text-align: center;
+
+    
+}
+.social{
+    justify-content:center;
+    display: flex;
+
+}
